@@ -1,0 +1,1 @@
+This is a collection of link prediction tutorials that I wrote. Some notebooks are accompanied by medium blogposts that you can find here https://medium.com/@eekosasih .
